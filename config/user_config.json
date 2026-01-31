@@ -1,0 +1,17 @@
+{
+    "app": {
+        "name": "Моё Консольное Приложение",
+        "version": "1.0.1",
+        "debug": false
+    },
+    "settings": {
+        "auto_save": true,
+        "max_history": 100,
+        "language": "ru"
+    },
+    "features": {
+        "logging": true,
+        "backup": true,
+        "notifications": false
+    }
+}
